@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "emin61gg.aternos.me",
+    "ip": "emin61gg.aternos.me:29627",
     "port": 29627,
     "version": "",
     "try-creative": false
